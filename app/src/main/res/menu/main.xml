@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/texticon" android:title="Text"   android:icon="@drawable/text" app:showAsAction="always"/>
+    <item android:id="@+id/picture" android:title="Gallary"   android:icon="@drawable/gallary32" app:showAsAction="always"/>
+    <item android:id="@+id/Edit_option" android:title="Edit"   android:icon="@drawable/pencile" app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/normal" android:title="Normal"/>
+            <item android:id="@+id/emboss" android:title="Emboss"/>
+            <item android:id="@+id/blur" android:title="Blur"/>
+            <item android:id="@+id/clear" android:title="Clear"/>
+        </menu>
+    </item>
+    <item android:id="@+id/save" android:title="Save"/>
+    <item android:id="@+id/cancle" android:title="Cancle"/>
+</menu>

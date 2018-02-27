@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PDFtoGo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main_activity">main_activity</string>
+    <string name="welcomeString">To Create The PDF hit +</string>
+    <string name="dialogfragmentpdfname">File Name</string>
+    <string name="newPDf">New PDF</string>
+    <string name="createaNewPDF">Ok</string>
+    <string name="cancle">Cancle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

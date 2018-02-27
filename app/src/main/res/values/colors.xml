@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="floatingBackground">#3b4859</color>
+    <color name="actionbarBackground">#C0CCDA</color>
+    <color name="actionbarBorder">#8492A6</color>
+    <color name="bottomBarColor">#1E2D3E</color>
+
+</resources>
